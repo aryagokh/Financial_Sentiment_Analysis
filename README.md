@@ -12,3 +12,5 @@ short_description: Sentiment Analysis model trained on Financial Corpus.
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+https://huggingface.co/spaces/GokhaleArya/Financial_Sentiment_Analysis
